@@ -1,6 +1,6 @@
-# SHAPEAI WEB DEV BOOTCAMP
+# SHAPEAI PYTHON AND CYBERSECURITY BOOTCAMP
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI</b>.
-The instructor during the session was Mr. Harsh Akshit (Ex- Google). I got tolearn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
+The instructor during the session was Mr. Harsh Akshit (Ex- Google). I got to learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
 <br>I got to have hands on experience on:
 <li>Python
 <li>CyberSecurity
